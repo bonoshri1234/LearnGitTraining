@@ -9,7 +9,7 @@ public class Edge {
 		System.setProperty("webdriver.edge.driver", "C:\\Users\\Bonoshri\\eclipse-workspace\\seleniumlearning\\test\\resources\\msedgedriver.exe");
 		WebDriver driver = new EdgeDriver();
 		driver.get("http://www.google.com");
-		driver.quit();
+		
 
 
 	}
